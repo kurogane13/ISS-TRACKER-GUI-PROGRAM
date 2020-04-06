@@ -1,6 +1,6 @@
 # ISS-TRACKER-GUI-PROGRAM
 
-*NOTE: You can View the GUI screenshots in the Screenshots folder. To view a video of the program running, access the Videos_tutorials folfer.
+*NOTE: You can View the GUI screenshots in the Screenshots folder. To view a video of the program running, access the Videos_tutorials folder.
 ----------------------------------------------------------------------------------------------------------------
 
 GUI version of the ISS tracker program - Author: Gustavo Wydler Azuaga - 04/06/2020

@@ -34,7 +34,7 @@ IMPORTANT NOTE: ALL THE .png IMAGES MUST BE IN THE PATH WHERE THE PROGRAM IS LAU
 
 IF THE PROGRAM IS LAUNCHED FROM THE /home/$USER path, THEY SHOULD BE THERE WHEN OPENING WITH THE TERMINAL.
 
-ALSO, THE .png FILES SHOULD BE IN THE FOLDER WITH THE iss_tracker_gui_no_password.py
+ALSO, THE .png FILES SHOULD BE IN THE FOLDER WITH THE iss_tracker_gui.py
 
 ---------------------------------------------------------------------------------------------------------------------------
 

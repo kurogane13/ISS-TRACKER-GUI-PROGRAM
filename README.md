@@ -1,2 +1,6 @@
 # ISS-TRACKER-GUI-PROGRAM
-This is a GUI based application, to see real time coordinates from the ISS, developed in python. 
+----------------------------------------------------------------------------------------------------------------
+
+GUI version of the ISS tracker program - Author: Gustavo Wydler Azuaga - 04/06/2020
+----------------------------------------------------------------------------------------------------------------
+ 

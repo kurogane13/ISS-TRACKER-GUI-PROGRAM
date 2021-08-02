@@ -28,7 +28,7 @@ Setup instructions:
 
 1. Clone the repo (git clone)
 2. Make sure to install all the python libraries before running the program.
-3. Decompress geckodriver-v0.22.0-linux64.tar.gz in /usr/bin/ (sudo tar -xvzf geckodriver-v0.22.0-linux64.tar.gz -C /usr/bin)
+3. Decompress geckodriver-v0.29.1-linux64.tar.gz in /usr/bin/ (sudo tar -xvzf geckodriver-v0.29.1-linux64.tar.gz -C /usr/bin)
 or executable path.
 4. Run the program with python 3 (python3.6 iss_tracker_gui.py) . Tested with python3.6
  

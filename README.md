@@ -3,7 +3,7 @@
 *NOTE: You can View the GUI screenshots in the Screenshots folder.
 ----------------------------------------------------------------------------------------------------------------
 
-GUI version of the ISS tracker program - Author: Gustavo Wydler Azuaga - 08/13/2021
+GUI version of the ISS tracker program - Author: Gustavo Wydler Azuaga - 04/06/2021
 ----------------------------------------------------------------------------------------------------------------
 
 This program is a python api-client that tracks the ISS (International space spation) coordinates.

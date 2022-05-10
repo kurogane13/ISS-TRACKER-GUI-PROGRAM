@@ -1,0 +1,166 @@
+1627940958295	geckodriver	INFO	geckodriver 0.18.0
+1627940958300	geckodriver	INFO	Listening on 127.0.0.1:41805
+1627940958530	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1627940967477	Marionette	TRACE	Marionette enabled
+1627940968342	Marionette	TRACE	Received observer notification toplevel-window-ready
+1627940977750	Marionette	TRACE	Received observer notification marionette-startup-requested
+1627940977750	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1627940977826	Marionette	TRACE	All scripts recorded.
+1627940977826	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1627940977826	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1627940977826	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1627940977827	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1627940977827	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1627940977827	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1627940977827	Marionette	DEBUG	Setting recommended pref browser.toolbars.bookmarks.visibility to never
+1627940977827	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1627940977828	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1627940977828	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1627940977829	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1627940977829	Marionette	DEBUG	Setting recommended pref dom.push.connection.enabled to false
+1627940977829	Marionette	DEBUG	Setting recommended pref extensions.getAddons.discovery.api_url to data:, 
+1627940977829	Marionette	DEBUG	Setting recommended pref privacy.trackingprotection.enabled to false
+1627940977829	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1627940977831	Marionette	INFO	Listening on port 39673
+1627940977831	Marionette	DEBUG	Marionette is listening
+1627940978124	Marionette	DEBUG	Remote agent not available for this build and platform
+1627940978125	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:40794
+1627940978202	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1627940978202	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:181: ... t@chrome://marionette/content/server.js:241:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:504:20\n"},null]
+1627940978211	geckodriver	INFO	geckodriver 0.18.0
+1627940978215	geckodriver	INFO	Listening on 127.0.0.1:35927
+1627940979343	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1627940983769	Marionette	TRACE	Marionette enabled
+1627940983854	Marionette	TRACE	Received observer notification toplevel-window-ready
+1627940987648	Marionette	TRACE	Received observer notification marionette-startup-requested
+1627940987648	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1627940987721	Marionette	TRACE	All scripts recorded.
+1627940987721	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1627940987721	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1627940987722	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1627940987722	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1627940987722	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1627940987722	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1627940987722	Marionette	DEBUG	Setting recommended pref browser.toolbars.bookmarks.visibility to never
+1627940987723	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1627940987725	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1627940987725	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1627940987725	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1627940987726	Marionette	DEBUG	Setting recommended pref dom.push.connection.enabled to false
+1627940987726	Marionette	DEBUG	Setting recommended pref extensions.getAddons.discovery.api_url to data:, 
+1627940987726	Marionette	DEBUG	Setting recommended pref privacy.trackingprotection.enabled to false
+1627940987726	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1627940987729	Marionette	INFO	Listening on port 35625
+1627940987729	Marionette	DEBUG	Marionette is listening
+1627940987786	Marionette	DEBUG	Remote agent not available for this build and platform
+1627940987787	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:37064
+1627940987795	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1627940987795	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:181: ... t@chrome://marionette/content/server.js:241:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:504:20\n"},null]
+1627940992358	Marionette	DEBUG	Closed connection 0
+1627940992358	Marionette	DEBUG	Closed connection 0
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1627941021121	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1627941021121	Marionette	DEBUG	Resetting recommended pref app.normandy.api_url
+1627941021121	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1627941021121	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1627941021121	Marionette	DEBUG	Resetting recommended pref browser.safebrowsing.passwords.enabled
+1627941021121	Marionette	DEBUG	Resetting recommended pref browser.tabs.remote.separatePrivilegedContentProcess
+1627941021122	Marionette	DEBUG	Resetting recommended pref browser.tabs.unloadOnLowMemory
+1627941021122	Marionette	DEBUG	Resetting recommended pref browser.toolbars.bookmarks.visibility
+1627941021122	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1627941021122	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1627941021122	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1627941021122	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1627941021123	Marionette	DEBUG	Resetting recommended pref dom.push.connection.enabled
+1627941021123	Marionette	DEBUG	Resetting recommended pref extensions.getAddons.discovery.api_url
+1627941021123	Marionette	DEBUG	Resetting recommended pref privacy.trackingprotection.enabled
+1627941021123	Marionette	DEBUG	Resetting recommended pref security.certerrors.mitm.priming.enabled
+1627941021123	Marionette	INFO	Stopped listening on port 35625
+1627941021123	Marionette	DEBUG	Marionette stopped listening
+1627941022520	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1627941022520	Marionette	DEBUG	Resetting recommended pref app.normandy.api_url
+1627941022520	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1627941022521	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1627941022521	Marionette	DEBUG	Resetting recommended pref browser.safebrowsing.passwords.enabled
+1627941022521	Marionette	DEBUG	Resetting recommended pref browser.tabs.remote.separatePrivilegedContentProcess
+1627941022521	Marionette	DEBUG	Resetting recommended pref browser.tabs.unloadOnLowMemory
+1627941022521	Marionette	DEBUG	Resetting recommended pref browser.toolbars.bookmarks.visibility
+1627941022521	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1627941022522	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1627941022522	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1627941022522	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1627941022522	Marionette	DEBUG	Resetting recommended pref dom.push.connection.enabled
+1627941022522	Marionette	DEBUG	Resetting recommended pref extensions.getAddons.discovery.api_url
+1627941022522	Marionette	DEBUG	Resetting recommended pref privacy.trackingprotection.enabled
+1627941022522	Marionette	DEBUG	Resetting recommended pref security.certerrors.mitm.priming.enabled
+1627941022522	Marionette	INFO	Stopped listening on port 39673
+1627941022522	Marionette	DEBUG	Marionette stopped listening
+1627941159838	geckodriver	INFO	Listening on 127.0.0.1:48591
+1627941159842	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerNmgLr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1627941166043	Marionette	INFO	Listening on port 35735
+1627941166089	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627941166154	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1627943369193	geckodriver	INFO	Listening on 127.0.0.1:53501
+1627943370200	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDnSPpq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1627943376628	Marionette	INFO	Listening on port 39921
+1627943376751	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627943376770	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: https://www.google.com/maps line 1485 > injectedScript, line 8126: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627943404453	Marionette	INFO	Stopped listening on port 39921
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

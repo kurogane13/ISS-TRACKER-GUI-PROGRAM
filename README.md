@@ -16,11 +16,7 @@ This program is a python api-client that tracks the ISS (International space spa
   taking snapshots of every location to store them in a folder by date. It also has a log file, 
   where it appends the raw data in txt format.
 
-* You can also view the coordinates in a single GUI window, spot the ISS´s location in the      spotthestation.nasa.gov/tracking_map.cfm portal through selenium as well.
-
----------------------------------------------------------------------------------------------------------------------------
-
-ATTACHMENTS: I am attaching the program(iss_tracker_gui.py), and the selenium web driver (geckodriver-v0.22.0-linux64.tar.gz) which i used to trigger selenium.
+* You can also view the coordinates in a single GUI window, spot the ISS´s location in the spotthestation.nasa.gov/tracking_map.cfm portal through selenium as well.
 
 ---------------------------------------------------------------------------------------------------------------------------
 
@@ -28,9 +24,10 @@ Setup instructions:
 
 1. Clone the repo (git clone)
 2. Make sure to install all the python libraries before running the program.
-3. Decompress geckodriver-v0.29.1-linux64.tar.gz in /usr/bin/ (sudo tar -xvzf geckodriver-v0.29.1-linux64.tar.gz -C /usr/bin)
 or executable path.
-4. Run the program with python 3 (python3.6 iss_tracker_gui.py) . Tested with python3.6
+3. Download and install the latest selenium driver, or previous to latest: https://github.com/mozilla/geckodriver/releases
+4. Test if it works by copying it to /usr/bin/, and running the geckodriver command. If the driver works, it should start listening by default on      127.0.0.1:4444.
+5. Run the program with python 3 (python3.6 iss_tracker_gui.py) . Tested with python3.6
  
 IMPORTANT NOTE: ALL THE .png IMAGES MUST BE IN THE PATH WHERE THE PROGRAM IS LAUNCHED FROM.
 
